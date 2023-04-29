@@ -2,7 +2,7 @@ import React from 'react';
 
 function Home() {
   return (
-    <div className="bg-cover bg-center h-screen" style={{backgroundImage: "url('https://st.depositphotos.com/1011643/2307/i/450/depositphotos_23072528-stock-photo-african-mother-and-her-son.jpghttps://st.depositphotos.com/1011643/2307/i/450/depositphotos_23072528-stock-photo-african-mother-and-her-son.jpghttps://st.depositphotos.com/1011643/2307/i/450/depositphotos_23072528-stock-photo-african-mother-and-her-son.jpghttps://st.depositphotos.com/1011643/2307/i/450/depositphotos_23072528-stock-photo-african-mother-and-her-son.jpg')"}}>
+    <div name='home'className="bg-cover bg-center h-screen" style={{backgroundImage: "url('https://st.depositphotos.com/1011643/2307/i/450/depositphotos_23072528-stock-photo-african-mother-and-her-son.jpghttps://st.depositphotos.com/1011643/2307/i/450/depositphotos_23072528-stock-photo-african-mother-and-her-son.jpghttps://st.depositphotos.com/1011643/2307/i/450/depositphotos_23072528-stock-photo-african-mother-and-her-son.jpghttps://st.depositphotos.com/1011643/2307/i/450/depositphotos_23072528-stock-photo-african-mother-and-her-son.jpg')"}}>
       <div className="container mx-auto h-full flex justify-center items-center">
         <div className="text-center">
           <h1 className="text-3xl font-bold text-black mb-4">Welcome to Medilab</h1>

@@ -45,7 +45,7 @@ function Service() {
   ];
 
   return (
-    <div className="container mx-auto my-10">
+    <div name='services'className="container mx-auto my-10">
       <h2 className="text-3xl font-bold mb-5">Our Services</h2>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
         {services.map((service, index) => (

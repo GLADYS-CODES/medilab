@@ -2,7 +2,7 @@ import React from 'react';
 
 function AppointmentForm() {
   return (
-    <div className="container mx-auto px-4 py-8">
+    <div name= 'make an appointment'className="container mx-auto px-4 py-8">
       <h2 className="text-2xl font-bold mb-6">Make an Appointment</h2>
       <form className="grid grid-cols-2 gap-8">
         <div className="bg-white rounded-lg shadow-md px-6 py-4">

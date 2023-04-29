@@ -2,7 +2,7 @@ import React from 'react';
 
 function About() {
   return (
-    <section className="bg-gray-100 py-20">
+    <section name='about'className="bg-gray-100 py-20">
       <div className="container mx-auto">
         <div className="flex flex-wrap justify-center">
           <div className="w-full md:w-1/2 lg:w-1/3 p-6">
